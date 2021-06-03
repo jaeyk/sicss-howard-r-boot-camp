@@ -1,4 +1,7 @@
 # sicss-howard-r-boot-camp
+
+Author: [Jae Yeon Kim](https://jaeyk.github.io/)
+
 R boot camp materials for SICSS-HOWARD (2021)
 
 These workshop materials are for your self-study and review. For SICSS-HOWARD participants, this means you don't need to take notes while participating in the boot camp. (Rather spend the time to learn by following along. It would be fun!) 
