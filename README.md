@@ -4,7 +4,7 @@ Author: [Jae Yeon Kim](https://jaeyk.github.io/)
 
 R boot camp materials for SICSS-HOWARD (2021)
 
-These workshop materials are for your self-study and review. For SICSS-HOWARD participants, this means you don't need to take notes while participating in the boot camp. (Rather spend the time to learn by following along. It would be fun!) 
+These workshop materials are for your self-study and review. For SICSS-HOWARD participants, this means you don't need to take notes while participating in the boot camp. (Rather spend the time to learn by following along. It would be fun!)
 
 # Workshop goals
 
@@ -17,23 +17,24 @@ I believe in the power of deep work (distraction harms concentration, and withou
 ## Day 1 (3 hours)
 
 Learning objectives: 
-How R (the programming language) and R studio (integrated development environment) work  
-Getting the big picture (the two main building blocks) of programming: objects and functions 
-Importing and exporting files in an efficient and reproducible way 
-Playing with data types (the bread and butter of data analysis): vectors (numeric, character, factor, logical), dataframes, and lists 
-Understanding the master framework: tidy principles 
+- How R (the programming language) and R studio (integrated development environment) work  
+- Getting the big picture (the two main building blocks) of programming: objects and functions 
+- Importing and exporting files in a reproducible way 
+- Playing with data types (the bread and butter of data analysis): vectors (numeric, character, factor, logical), dataframes, and lists 
 
 ## Day 2 (3 hours)
 
 Learning objectives:
-Practicing controlling flows using for loop and functional programming 
-Wrangling messy data quickly and easily 
-Running statistical model quickly and easily  
-Plotting data and model quickly and easily  
-
-Learning objectives: 
-Controlling the flow 
+- Understanding the master framework: tidy principles 
+- Wrangling messy data quickly and easily 
+Running statistical model quickly and easily
+- Plotting data and model quickly and easily  
 
 # Additioinal resources 
 
-This workshop helps you get up and started in R programming and data analysis and aims to provide the landscape of the R ecosystem. However, it certainly doesn't cover all important subjects in-depth. If you are interested in learning further, I recommend taking a look at my working-version [textbook](https://jaeyk.github.io/PS239T/) on learning computational methods focusing on R. This workshop is a condensed version of the earlier part of the textbook. 
+This workshop helps you get up and started in R programming and data analysis and aims to expose you to the landscape of the R ecosystem. However, it certainly doesn't cover all important subjects in-depth. If you are interested in learning further, I recommend taking a look at my working-version [textbook](https://jaeyk.github.io/PS239T/) on learning computational methods focusing on R. This workshop is a condensed version of the earlier part of the textbook. 
+
+**Special thanks**
+This workshop is a condensed remix version of [the course](https://github.com/rochelleterman/PS239T) originally developed by [Rochelle Terman](http://rochelleterman.com/) then revised by [Rachel Bernhard](http://rachelbernhard.com/). Other teaching materials draw from the workshops Jae Yeon Kim has created for [D-Lab](https://dlab.berkeley.edu/) and [Data Science Discovery Program](https://data.berkeley.edu/research/discovery-program-home) at UC Berkeley.
+
+![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
