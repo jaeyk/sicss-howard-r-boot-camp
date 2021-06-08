@@ -1,4 +1,10 @@
 install.packages(c("tidyverse",
                    "here",
                    "glue",
-                   "pacman"))
+                   "pacman",
+                   "gapminder",
+                   "nycflights13",
+                   "ggthemes",
+                   "ggrepel",
+                   "patchwork",
+                   "broom"))
