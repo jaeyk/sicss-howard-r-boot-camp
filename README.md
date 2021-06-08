@@ -31,7 +31,7 @@ Learning objectives:
 Learning objectives:
 - Understanding the master framework: tidy principles 
 - Wrangling messy data quickly and easily 
-Running statistical model quickly and easily
+- Running statistical model quickly and easily
 - Plotting data and model quickly and easily  
 
 # Additioinal resources 
