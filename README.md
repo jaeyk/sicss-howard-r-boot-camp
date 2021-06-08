@@ -35,6 +35,7 @@ Running statistical model quickly and easily
 This workshop helps you get up and started in R programming and data analysis and aims to expose you to the landscape of the R ecosystem. However, it certainly doesn't cover all important subjects in-depth. If you are interested in learning further, I recommend taking a look at my working-version [textbook](https://jaeyk.github.io/PS239T/) on learning computational methods focusing on R. This workshop is a condensed version of the earlier part of the textbook. 
 
 **Special thanks**
+
 This workshop is a condensed remix version of [the course](https://github.com/rochelleterman/PS239T) originally developed by [Rochelle Terman](http://rochelleterman.com/) then revised by [Rachel Bernhard](http://rachelbernhard.com/). Other teaching materials draw from the workshops Jae Yeon Kim has created for [D-Lab](https://dlab.berkeley.edu/) and [Data Science Discovery Program](https://data.berkeley.edu/research/discovery-program-home) at UC Berkeley.
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
