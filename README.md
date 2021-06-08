@@ -6,13 +6,17 @@ R boot camp materials for [SICSS-HOWARD/Mathematica (2021)](https://sicss.io/202
 
 These workshop materials are for your self-study and review. For SICSS-HOWARD participants, this means you don't need to take notes while participating in the boot camp. (Rather spend the time to learn by following along. It would be fun!)
 
+# Setup
+
+Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaeyk/sicss-howard-r-boot-camp/HEAD) to launch. Please do so before attending the worskshop as it takes a while (especially, if you do it for the first time). To reduce issues related to installation and configuration, I made all workshop materials runnable on docker. 
+
 # Workshop goals
 
 This workshop aims to introduce and demonstrate how fun and exciting doing data analysis with R could be. Mastering computational tools and techniques not only enable social scientists to collect, wrangle, analyze, and interpret data with less pain and more fun, but it also let them work on research projects that would previously seem impossible. Taking this workshop is the first step to move you in that direction. 
 
 # Schedule 
 
-I believe in the power of deep work (distraction harms concentration, and without concentration, it's challenging to learn complex technical subjects.) So, even though the workshop is virtual, please try to stay away from distractions for at least six hours (we will take a break every hour to help you rehydrated or decaffeinated, depending on your preferences.). Also, to reduce issues related to installation and configuration, I made all workshop materials runnable on docker. 
+I believe in the power of deep work (distraction harms concentration, and without concentration, it's challenging to learn complex technical subjects.) So, even though the workshop is virtual, please try to stay away from distractions for at least six hours (we will take a break every hour to help you rehydrated or decaffeinated, depending on your preferences.).
 
 ## Day 1 (3 hours)
 
