@@ -8,7 +8,7 @@ These workshop materials are for your self-study and review. For SICSS-HOWARD pa
 
 # Setup
 
-Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaeyk/sicss-howard-r-boot-camp/HEAD) to launch. Please do so before attending the worskshop as it takes a while (especially, if you do it for the first time). To reduce issues related to installation and configuration, I made all workshop materials runnable on docker. 
+Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaeyk/sicss-howard-r-boot-camp/main?urlpath=rstudio) to launch. Please do so before attending the worskshop as it takes a while (especially, if you do it for the first time). To reduce issues related to installation and configuration, I made all workshop materials runnable on docker. 
 
 # Workshop goals
 
